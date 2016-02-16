@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleBgDistribution/SampleBgDistribution.iml" filepath="$PROJECT_DIR$/SampleBgDistribution/SampleBgDistribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildTreeMaps/buildTreeMaps.iml" filepath="$PROJECT_DIR$/buildTreeMaps/buildTreeMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fgroups_zscores/fgroups_zscores.iml" filepath="$PROJECT_DIR$/fgroups_zscores/fgroups_zscores.iml" />
+    </modules>
+  </component>
+</project>

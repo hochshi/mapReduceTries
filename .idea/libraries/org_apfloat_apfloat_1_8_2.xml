@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apfloat:apfloat:1.8.2" type="repository">
+    <properties maven-id="org.apfloat:apfloat:1.8.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apfloat/apfloat/1.8.2/apfloat-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
